@@ -20,4 +20,4 @@ Um pouco sobre mim...🤙<br>
 <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div><br>
 
-Em meu tempo livre, gosto de estar buscando mais conhecimento sobre a tecnologia a qual estou trabalhando, afim de extrair o máximo de possibilidades que esta pode oferecer no processo de desenvolvimento do software 👽
+Em meu tempo livre, gosto de estar buscando mais conhecimento sobre a tecnologia a qual estou trabalhando, afim de extrair o máximo de possibilidades que esta pode oferecer no desenvolvimento do software 👽
