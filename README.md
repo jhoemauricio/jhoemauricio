@@ -1,5 +1,7 @@
 ### Olá, eu sou o jhoseph 😊
-Analista de sistemas! desenvolvedor de software ✌️
+Sou Graduado em Análise e desenvolvimento de sistemas!
+Pós-Graduado em desenvolvimento de sistemas para ambiente web.
+Atualmente estou focado no desenvolvimento Front-End. ✌️
 
 Um pouco sobre mim...🤙<br>
 
@@ -10,7 +12,7 @@ Um pouco sobre mim...🤙<br>
 
 ![Jhoseph GitHub stats](https://github-readme-stats.vercel.app/api?username=jhoemauricio&show_icons=true&theme=highcontrast)
 
-## Tecnologias que utilizo 👾
+## Tecnologias as quai utilizo 👾
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
