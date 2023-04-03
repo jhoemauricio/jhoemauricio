@@ -1,7 +1,6 @@
 ### Olá, eu sou o jhoseph 😊
 Sou Graduado em Análise e desenvolvimento de sistemas!
-Pós-Graduado em desenvolvimento de sistemas para ambiente web.
-Atualmente estou focado no desenvolvimento Front-End. ✌️
+Pós-Graduado em desenvolvimento de sistemas para ambiente web.✌️
 
 Um pouco sobre mim...🤙<br>
 
