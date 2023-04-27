@@ -25,4 +25,4 @@ Um pouco sobre mim...🤙<br>
   
 </div><br>
 
-Em meu tempo livre, gosto de estar buscando mais conhecimento sobre a tecnologia a qual estou trabalhando, afim de extrair o máximo de possibilidades que esta pode oferecer no processo de desenvolvimento do software 👽
+Em meu tempo livre, me dedico a adquirir mais conhecimento sobre a tecnologia a qual estou trabalhando, afim de extrair o máximo de possibilidades que esta pode oferecer no processo de desenvolvimento do software 👽
