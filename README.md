@@ -36,4 +36,4 @@ Um pouco sobre mim...🤙<br>
   
 </div><br>
 
-Em meu tempo livre gosto muito de estudar, principalmente a tecnologia a qual esteja trabalhando 👽
+👽
