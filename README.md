@@ -7,9 +7,6 @@ Pós-graduado em **Desenvolvimento de Sistemas para Ambiente Web**
 [![Social](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jhoemauricio)
 
 
-
-![Jhoseph GitHub stats](https://github-readme-stats.vercel.app/api?username=jhoemauricio&show_icons=true&theme=highcontrast)
-
 ## Tecnologias as quai utilizo 👾
 
 <div style="display: inline_block"><br>
