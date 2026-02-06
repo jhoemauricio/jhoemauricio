@@ -1,8 +1,7 @@
 ### Olá, eu sou o jhoseph 😊
-Sou Graduado em Análise e desenvolvimento de sistemas!
-Pós-Graduado em desenvolvimento de sistemas para ambiente web.✌️
-
-Um pouco sobre mim...🤙<br>
+Sou **Graduado em Análise e Desenvolvimento de Sistemas**  
+Pós-graduado em **Desenvolvimento de Sistemas para Ambiente Web**  
+🎓 **Estudante de Licenciatura em Matemática**<br>
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhoseph-mauricio-735611126/)
 [![Social](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jhoemauricio)
